@@ -351,6 +351,15 @@ section .section-title:hover::after {
   margin-bottom: 1rem;
 }
 
+.card-text-morse {
+  color: var(--text-secondary);
+  text-shadow: 0 0 2px var(--primary-color);
+  font-size: 1rem;
+  line-height: 1;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
+
 /* ===================================
    SOCIAL ICONS
    =================================== */
